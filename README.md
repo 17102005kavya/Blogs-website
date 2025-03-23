@@ -12,8 +12,8 @@ This project is a fully functional blog website that includes features such as u
 - **Blog Page**: Displays published blogs with user-friendly UI.
 
 ## Tech Stack
-- **Frontend**: HTML, CSS, JavaScript (React.js if applicable)
-- **Backend**: Appwrite
+- **Frontend**: HTML, CSS, JavaScript, ReactJS
+- **Backend**: Appwrite, NodeJS
 - **Database**: Appwrite Database
 - **Authentication**: Appwrite Auth
 - **Storage**: Appwrite File Storage
